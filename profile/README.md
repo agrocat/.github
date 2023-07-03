@@ -11,7 +11,7 @@ Alguns dels programes són fets internament pel departament d'informàtica, per�
 
 ## 👥 Qui som?
 
-### [Departament intern d'informàtica](www.agrocat.com)
+### [Departament intern d'informàtica](http://www.agrocat.com)
 - **Xavier Sanchís**
   - :octocat: `@xavieragrocat`
   - :envelope: `xavier@agrocat.com`
@@ -19,7 +19,7 @@ Alguns dels programes són fets internament pel departament d'informàtica, per�
   - :octocat: `@sergidb`
   - :envelope: `sergid@agrocat.com`
 
-### [3ktec](www.3ktec.com)
+### [3ktec](http://www.3ktec.com)
 - **Jordi Divins**
   - :octocat: `@jdivins`
   - :envelope: `jordi@3ktec.com`
@@ -29,7 +29,7 @@ Alguns dels programes són fets internament pel departament d'informàtica, per�
 - **Jordi Vila**
   - :octocat: `@JordiViCa`
   - :envelope: `jvila@3ktec.com` 
-### [Tiltac](www.tiltac.es) 
+### [Tiltac](http://www.tiltac.es) 
 - **Juan Manuel Borruel**
   - :octocat: `@mamelete`
   - :envelope: `jm@tiltac.es`
