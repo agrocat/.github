@@ -34,6 +34,7 @@ Alguns dels programes són fets internament pel departament d'informàtica, per�
   - :octocat: `@mamelete`
   - :envelope: `jm@tiltac.es`
 - **Alberto Ciria**
+  - :octocat: `@albertotiltac`
   - :envelope: `alberto@tiltac.es`
 ### Lídia Roca
 - **Lidia Roca**
